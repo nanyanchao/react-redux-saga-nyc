@@ -1,2 +1,2 @@
-let saga = require("./lib/index")
-exports.saga = saga;
+import saga from "./lib/index"
+export default saga;
