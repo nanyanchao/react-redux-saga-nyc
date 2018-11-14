@@ -1,9 +1,9 @@
 {
   "name": "react-redux-saga-nyc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
-  "repository":"https://github.com/nanyanchao/react-redux-saga-nyc.git",
+  "repository": "https://github.com/nanyanchao/react-redux-saga-nyc.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
